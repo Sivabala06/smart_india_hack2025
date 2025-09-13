@@ -1,0 +1,15 @@
+C:\Users\DELL\smart_india_hack2025\bin\Debug\net8.0\smart_india_hack2025.exe
+C:\Users\DELL\smart_india_hack2025\bin\Debug\net8.0\smart_india_hack2025.deps.json
+C:\Users\DELL\smart_india_hack2025\bin\Debug\net8.0\smart_india_hack2025.runtimeconfig.json
+C:\Users\DELL\smart_india_hack2025\bin\Debug\net8.0\smart_india_hack2025.dll
+C:\Users\DELL\smart_india_hack2025\bin\Debug\net8.0\smart_india_hack2025.pdb
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.AssemblyInfoInputs.cache
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.AssemblyInfo.cs
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.csproj.CoreCompileInputs.cache
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.sourcelink.json
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.dll
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\refint\smart_india_hack2025.dll
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.pdb
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\smart_india_hack2025.genruntimeconfig.cache
+C:\Users\DELL\smart_india_hack2025\obj\Debug\net8.0\ref\smart_india_hack2025.dll

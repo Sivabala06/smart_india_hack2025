@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "smart_india_hack2025/1.0.0": {
+        "runtime": {
+          "smart_india_hack2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "smart_india_hack2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
